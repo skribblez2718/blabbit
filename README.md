@@ -1,5 +1,9 @@
 # blabbit
+<<<<<<< HEAD
 blabbit is a vulnerable web application requiring code analysis to discover and exploit the vulnerability. The aim is to provide a simple, yet realistic web application to practice code anlalysis skills on. This application is heavily based on projects done while doing Colt Steels's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy and experience with the [Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/) course. It's inital use was for a CTF, but could easily be used for a self challenge as well. The goal is to obatin the flag.
+=======
+blabbit is a vulnerable web application requiring code analysis to discover and exploit the vulnerability. The aim is to provide a simple, yet realistic web application to practice code anlalysis skills on. This application is heavily based on projects done while doing Colt Steels's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy and experience with the [Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/) course. It's inital use was for a CTF, but could easily be used for a self challenge as well.
+>>>>>>> d12f17d42fae6c5f3f9e35b5442e3a28e80c8abe
 
 ## Setup
 Full setup instructions are a work in progress, but there should be no gaps here that can't be filled with some simple research.
