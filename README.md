@@ -27,7 +27,7 @@ CLOUDINARY_SECRET=
 CLOUDINARY_FOLDER=
 ```
 
-### Mongo
+### Mongo Setup
 [MongoDB](https://www.mongodb.com/)
 
 ### Intializing data
