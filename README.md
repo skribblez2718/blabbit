@@ -1,4 +1,5 @@
 # blabbit
+<<<<<<< HEAD
 blabbit is a vulnerable web application requiring code analysis to discover and exploit the vulnerability. The aim is to provide a simple, yet realistic web application to practice code anlalysis skills on. This application is heavily based on projects done while doing Colt Steels's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy and experience with the [Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/) course. It's inital use was for a CTF, but could easily be used for a self challenge as well.
 
 ## Setup
@@ -51,3 +52,6 @@ The application should now be running on http://localhost:3000. The source_code 
 [Cloudinary](https://console.cloudinary.com)
 [MongoDB](https://www.mongodb.com/)
 [Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/)
+=======
+blabbit is a vulnerable web application requiring code analysis to discover and exploit the vulnerability. The aim is to provide a simple, yet realistic web application to practice code anlalysis skills on. This application is heavily based on projects done in Colt Steels's 2022 Web Developer Bootcamp and experince with the Advanced Web Attacks and Exploitation course
+>>>>>>> 4483cfa1b8be021350f3a4592f976c4f52b97f40
