@@ -1,0 +1,23 @@
+<% layout('layouts/boilerplate') %>
+<div class="row">
+    <h1 class="text-center">New blabbit</h1>
+    <div class="col-6 offset-3">
+        <form action="/blabbits" method="POST" class="validated-form" enctype="multipart/form-data" novalidate>
+            <div class="mb-3">
+                <label for="image" class="form-label">Image</label>
+                <input type="file" id="image" name="images" class="form-control" multiple>
+            </div>
+            <div class="mb-3">
+                <label for="message" class="form-label">blabbit</label>
+                <textarea id="message" name="blabbit[message]" class="form-control" required></textarea>
+                <div class="invalid-feedback">
+                    blabbit is required
+                </div>
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-success">Add blabbit</button>
+            </div>
+            <a class="btn btn-info text-white" href="/blabbits">View All blabbits</a>
+        </form>
+    </div>
+</div>
