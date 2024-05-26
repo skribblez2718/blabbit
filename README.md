@@ -51,7 +51,7 @@ The application should now be running on http://localhost:3000. The source_code 
 - Review CSP policy to enure proper configuration
 
 ## Resources
-[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
-[Cloudinary](https://console.cloudinary.com)
-[MongoDB](https://www.mongodb.com/)
-[Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/)
+- [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+- [Cloudinary](https://console.cloudinary.com)
+- [MongoDB](https://www.mongodb.com/)
+- [Advance Web Attacks and Exploitation](https://www.offsec.com/courses/web-300/)
