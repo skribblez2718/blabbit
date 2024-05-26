@@ -40,7 +40,7 @@ From inside the blabbit directory run
 node app.js
 ```
 
-The application should now be running on http://localhost:3000. The source_code directory conatins source code that would realistically be available for analysis. Use the contents of this directory for source code review
+The application should now be running on http://localhost:3000. The source_code directory contains source code that would realistically be available for analysis. Use the contents of this directory for source code review
 
 ## TO DO
 - Complete installation and initialization instructions along with associated scripts
