@@ -75,7 +75,9 @@ connectSrcUrls = [];
 
 scriptSrcUrls = [];
 
-styleSrcUrls = [];
+styleSrcUrls = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+];
 
 fontSrcUrls = [];
 
@@ -90,8 +92,7 @@ app.use(
         directives: {
             defaultSrc: ["'none'"],
             connectSrc: ["'self'", ...connectSrcUrls],
-            //scriptSrc: ["'self'", "'unsafe-inline'", ...scriptSrcUrls],
-            scriptSrc: ["'self'", ...scriptSrcUrls],
+            scriptSrc: ["'self'", "'unsafe-inline'", ...scriptSrcUrls],
             styleSrc: ["'self'", ...styleSrcUrls],
             objectSrc: ["'none'"],
             imgSrc: ["'self'", ...imageSrcUrls],
